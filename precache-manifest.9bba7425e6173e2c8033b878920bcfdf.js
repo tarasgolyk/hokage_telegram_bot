@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "803b4138bd0f43728e6b53d2834fccd2",
+    "revision": "b60eb478908ee96692d3e7f7e1e5a8ff",
     "url": "/hokage_telegram_bot/index.html"
   },
   {
