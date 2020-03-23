@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hokage_telegram_bot/static/css/main.b0edf969.chunk.css",
+    "main.js": "/hokage_telegram_bot/static/js/main.67183b0c.chunk.js",
+    "main.js.map": "/hokage_telegram_bot/static/js/main.67183b0c.chunk.js.map",
+    "runtime-main.js": "/hokage_telegram_bot/static/js/runtime-main.2aa6bca1.js",
+    "runtime-main.js.map": "/hokage_telegram_bot/static/js/runtime-main.2aa6bca1.js.map",
+    "static/css/2.89f067aa.chunk.css": "/hokage_telegram_bot/static/css/2.89f067aa.chunk.css",
+    "static/js/2.56ffb167.chunk.js": "/hokage_telegram_bot/static/js/2.56ffb167.chunk.js",
+    "static/js/2.56ffb167.chunk.js.map": "/hokage_telegram_bot/static/js/2.56ffb167.chunk.js.map",
+    "index.html": "/hokage_telegram_bot/index.html",
+    "precache-manifest.df92ba9c4d2244e753393ac6dd093bbb.js": "/hokage_telegram_bot/precache-manifest.df92ba9c4d2244e753393ac6dd093bbb.js",
+    "service-worker.js": "/hokage_telegram_bot/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/hokage_telegram_bot/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.b0edf969.chunk.css.map": "/hokage_telegram_bot/static/css/main.b0edf969.chunk.css.map",
+    "static/js/2.56ffb167.chunk.js.LICENSE.txt": "/hokage_telegram_bot/static/js/2.56ffb167.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/hokage_telegram_bot/static/media/back.1f7dbb06.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aa6bca1.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.56ffb167.chunk.js",
+    "static/css/main.b0edf969.chunk.css",
+    "static/js/main.67183b0c.chunk.js"
+  ]
+}
