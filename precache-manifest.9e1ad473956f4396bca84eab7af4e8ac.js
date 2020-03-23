@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "158877364d348fcb17e23b2e6aa20999",
+    "revision": "cf91b13a995387c70b72d05259fbbf46",
     "url": "/hokage_telegram_bot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hokage_telegram_bot/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "04f8f99c870f47afdce6",
+    "revision": "23a1a0cdc4b121c98c62",
     "url": "/hokage_telegram_bot/static/css/main.62d0885a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hokage_telegram_bot/static/js/2.017615aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04f8f99c870f47afdce6",
-    "url": "/hokage_telegram_bot/static/js/main.3d240ae5.chunk.js"
+    "revision": "23a1a0cdc4b121c98c62",
+    "url": "/hokage_telegram_bot/static/js/main.b3cc14b2.chunk.js"
   },
   {
     "revision": "29a63a3aaab53c7899f2",
