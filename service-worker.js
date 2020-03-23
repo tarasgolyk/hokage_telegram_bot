@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hokage_telegram_bot/precache-manifest.9e1ad473956f4396bca84eab7af4e8ac.js"
+  "/hokage_telegram_bot/precache-manifest.6bf2633976fb00f054276f025a63fe04.js"
 );
 
 self.addEventListener('message', (event) => {
