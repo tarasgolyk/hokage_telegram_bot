@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b60eb478908ee96692d3e7f7e1e5a8ff",
+    "revision": "158877364d348fcb17e23b2e6aa20999",
     "url": "/hokage_telegram_bot/index.html"
   },
   {
-    "revision": "768711e98d799685933f",
+    "revision": "ba57beb9c6f056308548",
     "url": "/hokage_telegram_bot/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "0b5478d0462a3dd6d2d3",
-    "url": "/hokage_telegram_bot/static/css/main.b0edf969.chunk.css"
+    "revision": "04f8f99c870f47afdce6",
+    "url": "/hokage_telegram_bot/static/css/main.62d0885a.chunk.css"
   },
   {
-    "revision": "768711e98d799685933f",
-    "url": "/hokage_telegram_bot/static/js/2.56ffb167.chunk.js"
+    "revision": "ba57beb9c6f056308548",
+    "url": "/hokage_telegram_bot/static/js/2.017615aa.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/hokage_telegram_bot/static/js/2.56ffb167.chunk.js.LICENSE.txt"
+    "url": "/hokage_telegram_bot/static/js/2.017615aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b5478d0462a3dd6d2d3",
-    "url": "/hokage_telegram_bot/static/js/main.67183b0c.chunk.js"
+    "revision": "04f8f99c870f47afdce6",
+    "url": "/hokage_telegram_bot/static/js/main.3d240ae5.chunk.js"
   },
   {
     "revision": "29a63a3aaab53c7899f2",

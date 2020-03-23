@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/hokage_telegram_bot/static/css/main.b0edf969.chunk.css",
-    "main.js": "/hokage_telegram_bot/static/js/main.67183b0c.chunk.js",
-    "main.js.map": "/hokage_telegram_bot/static/js/main.67183b0c.chunk.js.map",
+    "main.css": "/hokage_telegram_bot/static/css/main.62d0885a.chunk.css",
+    "main.js": "/hokage_telegram_bot/static/js/main.3d240ae5.chunk.js",
+    "main.js.map": "/hokage_telegram_bot/static/js/main.3d240ae5.chunk.js.map",
     "runtime-main.js": "/hokage_telegram_bot/static/js/runtime-main.2aa6bca1.js",
     "runtime-main.js.map": "/hokage_telegram_bot/static/js/runtime-main.2aa6bca1.js.map",
     "static/css/2.89f067aa.chunk.css": "/hokage_telegram_bot/static/css/2.89f067aa.chunk.css",
-    "static/js/2.56ffb167.chunk.js": "/hokage_telegram_bot/static/js/2.56ffb167.chunk.js",
-    "static/js/2.56ffb167.chunk.js.map": "/hokage_telegram_bot/static/js/2.56ffb167.chunk.js.map",
+    "static/js/2.017615aa.chunk.js": "/hokage_telegram_bot/static/js/2.017615aa.chunk.js",
+    "static/js/2.017615aa.chunk.js.map": "/hokage_telegram_bot/static/js/2.017615aa.chunk.js.map",
     "index.html": "/hokage_telegram_bot/index.html",
-    "precache-manifest.9bba7425e6173e2c8033b878920bcfdf.js": "/hokage_telegram_bot/precache-manifest.9bba7425e6173e2c8033b878920bcfdf.js",
+    "precache-manifest.7717c4f5336fbf43bec6a97a1e8a92c6.js": "/hokage_telegram_bot/precache-manifest.7717c4f5336fbf43bec6a97a1e8a92c6.js",
     "service-worker.js": "/hokage_telegram_bot/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/hokage_telegram_bot/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.b0edf969.chunk.css.map": "/hokage_telegram_bot/static/css/main.b0edf969.chunk.css.map",
-    "static/js/2.56ffb167.chunk.js.LICENSE.txt": "/hokage_telegram_bot/static/js/2.56ffb167.chunk.js.LICENSE.txt",
+    "static/css/main.62d0885a.chunk.css.map": "/hokage_telegram_bot/static/css/main.62d0885a.chunk.css.map",
+    "static/js/2.017615aa.chunk.js.LICENSE.txt": "/hokage_telegram_bot/static/js/2.017615aa.chunk.js.LICENSE.txt",
     "static/media/App.module.css": "/hokage_telegram_bot/static/media/back.1f7dbb06.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2aa6bca1.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.56ffb167.chunk.js",
-    "static/css/main.b0edf969.chunk.css",
-    "static/js/main.67183b0c.chunk.js"
+    "static/js/2.017615aa.chunk.js",
+    "static/css/main.62d0885a.chunk.css",
+    "static/js/main.3d240ae5.chunk.js"
   ]
 }
